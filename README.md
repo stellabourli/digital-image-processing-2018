@@ -1,3 +1,3 @@
 ### digital-image-processing-2018
 
-3 assignments
+3 sets of assignments
